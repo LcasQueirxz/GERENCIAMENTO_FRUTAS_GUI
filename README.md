@@ -1,4 +1,4 @@
-# Gerenciador de Frutas
+# Gerenciador de Frutas com aplicação de interface 🖥️
 
 ## 📋 Pré-requisitos
 
