@@ -21,4 +21,4 @@
 Este projeto é uma aplicação simples utilizando Swing para criar uma interface gráfica que permite gerenciar uma lista de frutas. A aplicação possui funcionalidades para adicionar, listar, modificar e remover frutas da lista. Ele serve como um exemplo básico de como instanciar e utilizar componentes Swing em um layout BorderLayout.
 
 ## 🖥️ Resultado da aplicação 
-![interfacetela]()
+![interfacetela](https://github.com/LcasQueirxz/GERENCIAMENTO_FRUTAS_GUI/blob/main/image/Captura%20de%20Tela%202024-11-06%20%C3%A0s%2019.30.12.png)
